@@ -1,2 +1,1 @@
-# devops
-my first program
+hello friends
